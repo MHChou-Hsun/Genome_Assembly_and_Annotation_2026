@@ -29,7 +29,7 @@ The scripts were developed and executed on an HPC environment.
    - BlobToolKit
    - seqkit
 
-4. Annotation
+4. Gene annotation
    - RepeatModeler
    - RepeatMasker
    - ProtHint
