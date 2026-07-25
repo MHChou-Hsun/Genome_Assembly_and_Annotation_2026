@@ -16,6 +16,7 @@ The scripts were developed and executed on an HPC environment.
 1. Genome assembly
    - HiFiAdapterFilt
    - Hifiasm
+   - purge_haplotigs
 
 2. Assembly statistics
    - Jellyfish
