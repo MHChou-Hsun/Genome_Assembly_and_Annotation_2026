@@ -34,7 +34,7 @@ The scripts were developed and executed on an HPC environment.
    - RepeatModeler
    - RepeatMasker
    - ProtHint
-   - BRAKER
+   - BRAKER3
 
 5. Supporting utilities
    - SAMtools
