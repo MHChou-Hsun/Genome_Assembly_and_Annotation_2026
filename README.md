@@ -7,13 +7,11 @@ The workflow includes:
 - Genome assembly from PacBio HiFi reads
 - Assembly quality assessment
 - Contamination assessment and removal
-- Repeat annotation
-- Gene prediction
-- Functional annotation
+- Genome annotation
 
 The scripts were developed and executed on an HPC environment.
 
-## Workflow
+## Programes
 
 1. Genome assembly
    - HiFiAdapterFilt
