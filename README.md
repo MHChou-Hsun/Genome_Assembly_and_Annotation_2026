@@ -17,16 +17,25 @@ The scripts were developed and executed on an HPC environment.
    - HiFiAdapterFilt
    - Hifiasm
 
-2. Assembly evaluation
+2. Assembly statistics
    - Jellyfish
    - KMC
    - GenomeScope
    - BUSCO
    - QUAST
+
+3. Contamination control
+   - BLAST
    - BlobToolKit
+   - seqkit
 
 4. Annotation
    - RepeatModeler
    - RepeatMasker
    - ProtHint
    - BRAKER
+
+5. Supporting utilities
+   - SAMtools
+   - Minimap2
+   - R
