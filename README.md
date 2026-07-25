@@ -40,3 +40,7 @@ The scripts were developed and executed on an HPC environment.
    - SAMtools
    - Minimap2
    - R
+
+## References
+   - Kim, J., & Kim, C. (2022). A beginner’s guide to assembling a draft genome and analyzing structural variants with long-read sequencing technologies. STAR Protocols, 3(3). https://doi.org/10.1016/j.xpro.2022.101506
+   - Singh, R. P., Weng, Y. M., Sondhi, Y., Plotkin, D., Frandsen, P. B., & Kawahara, A. Y. (2024). Genome assembly of a nocturnal butterfly (Macrosoma leucophasiata) reveals convergent adaptation of visual genes. Communications Biology, 7(1), 1664. https://doi.org/10.1038/s42003-024-07124-2
